@@ -12,6 +12,7 @@ PORT=$2
 TIME=$3
 
 # Run each file with the parameters
+# <./file_name> "$IP" "$PORT" "$TIME" "100"
 ./vb "$IP" "$PORT" "$TIME" "100"
 ./v0 "$IP" "$PORT" "$TIME" "100"
 ./v1 "$IP" "$PORT" "$TIME" "100"
