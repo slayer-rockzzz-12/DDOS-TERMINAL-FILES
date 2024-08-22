@@ -13,7 +13,7 @@ chmod +x *
 
 ### NOW TO ATTACK JUST USE THIS COMMAND ###
 
-./FUCK IP PORT TIME
+./FUCK  IP  PORT  TIME
 
 ### TO STOP ATTACK ###
 
