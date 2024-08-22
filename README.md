@@ -17,7 +17,7 @@ chmod +x *
 
 ### TO STOP ATTACK ###
 
-Just Hit (CTRL+Z)
+Just Hit (Ctrl+Z)
 
 ### TO SEND PREVIOUS ATTACK AGAIN ###
 
